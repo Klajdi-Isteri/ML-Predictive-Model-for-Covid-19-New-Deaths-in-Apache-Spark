@@ -1,0 +1,1 @@
+The Project Notebook (HTML) needs to be downloaded and opened with an updated version of the web browser (such as Microsoft Edge or Google Chrome) due to the javascript API's used by Plotly for the interactive graphs.
